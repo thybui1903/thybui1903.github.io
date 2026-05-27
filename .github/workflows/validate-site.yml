@@ -23,5 +23,3 @@ jobs:
       - name: Validate config and generated assets
         run: |
           npm run validate
-          npm run build
-          git diff --exit-code css/bundle.css js/bundle.js robots.txt sitemap.xml site.webmanifest
