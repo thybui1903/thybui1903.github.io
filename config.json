@@ -49,17 +49,33 @@
     "title": "Featured Projects",
     "items": [
       {
-        "name": "Portfolio Website",
-        "date": "May 27, 2026",
+        "name": "Bank Marketing Campaign Analysis & Customer Segmentation",
+        "date": "2025",
         "description": [
-          "A modern, responsive portfolio website built with vanilla JavaScript",
-          "Features dark/light mode, dynamic content loading, and GitHub integration",
-          "Fully configurable through JSON with automated README generation"
+          "Performed exploratory data analysis on 45K+ banking records following the CRISP-DM methodology",
+          "Applied Random Forest feature importance and Mutual Information to identify key predictors of customer conversion",
+          "Segmented customers into 4 profiles using K-Means Clustering and validated optimal clusters with the Elbow Method",
+          "Built an interactive Power BI dashboard to visualize conversion insights and customer segments for business stakeholders"
         ],
-        "picture": "assets/projects/Placeholder.png",
+        "picture": "assets/projects/bank-marketing.png",
         "link": {
-          "url": "https://thybui1903.github.io",
-          "title": "View Live Site"
+          "url": "https://github.com/thybui1903",
+          "title": "View Project"
+        }
+      },
+      {
+        "name": "Aspect-Based Sentiment Analysis on Tiki Reviews",
+        "date": "2025",
+        "description": [
+          "Built a Vietnamese sentiment analysis dataset by scraping and processing Tiki product reviews",
+          "Developed a semi-automatic annotation pipeline using Gemini API with Human-in-the-Loop validation",
+          "Implemented NLP preprocessing and machine learning workflows for multi-aspect sentiment classification",
+          "Achieved a Macro-F1 score of 53.33% in a low-resource Vietnamese NLP setting"
+        ],
+        "picture": "assets/projects/absa-tiki.png",
+        "link": {
+          "url": "https://github.com/thybui1903",
+          "title": "View Project"
         }
       }
     ]
