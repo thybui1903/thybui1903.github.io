@@ -150,7 +150,7 @@
     "repos": [
       "thybui1903/Bank-Marketing-Campaign-Analysis-Customer-Segmentation",
       "thybui1903/Tiki_ABSA",
-      "https://github.com/tuikhongtenbo/restaurant-services-management-website"
+      "tuikhongtenbo/restaurant-services-management-website"
     ],
     "max_repos": 4,
     "excluded_repos": []
