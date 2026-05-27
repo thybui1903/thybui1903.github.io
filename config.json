@@ -147,7 +147,7 @@
   "github_projects": {
     "title": "Projects on GitHub",
     "mode": "featured",
-    "topic": "featured",
+    "topic": "data-science",
     "max_repos": 4,
     "excluded_repos": [
       "thybui1903",
