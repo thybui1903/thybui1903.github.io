@@ -21,7 +21,7 @@
     }
   },
   "header": {
-    "greeting": "thybui1903",
+    "greeting": "Bui Tran Thy Thy",
     "tagline": "Data Analyst | Data Scientist"
   },
   "social_links": [
@@ -38,7 +38,7 @@
       "required": true
     }
   ],
-  "github_username": "Bui Tran Thy Thy",
+  "github_username": "thybui1903",
   "about": {
     "paragraphs": [
       "Welcome to my portfolio! I'm currently a Data Science student at UIT VNU-HCM with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Proficient in Python, SQL, and Power BI. Seeking an internship to apply data-driven thinking to real business problems and contribute to a collaborative, impact-focused team.",
