@@ -72,18 +72,13 @@
     ]
   },
   "experience": {
-    "title": "Professional Experience",
-    "jobs": [
+    "title": "Education",
+    "education": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
-        "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
-        ],
+        "university": "University of Information Technology, VNU-HCM",
+        "role": "Bachelor of Science in Data Science",
+        "date": "2023 – 2027 (expected)",
+        "GPA": "8.69 / 10",
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
       }
