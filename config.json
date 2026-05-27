@@ -146,7 +146,7 @@
   },
   "github_projects": {
     "title": "Projects on GitHub",
-    "mode": "list",
+    "mode": "features",
     "repos": [
       "thybui1903/Bank-Marketing-Campaign-Analysis-Customer-Segmentation",
       "thybui1903/Tiki_ABSA",
