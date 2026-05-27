@@ -22,7 +22,7 @@
   },
   "header": {
     "greeting": "thybui1903",
-    "tagline": "Data Analyst | Data Scientist",
+    "tagline": "Data Analyst | Data Scientist"
   },
   "social_links": [
     {
@@ -48,10 +48,7 @@
   "github_username": "thybui1903",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm currently a Data Science student at UIT VNU-HCM with hands-on experience across the full analytical workflow —
-      from EDA and feature engineering to machine learning modeling and business-ready dashboards. Proficient
-      in Python, SQL, and Power BI. Seeking an internship to apply data-driven thinking to real business
-      problems and contribute to a collaborative, impact-focused team.",
+      "Welcome to my portfolio! I'm currently a Data Science student at UIT VNU-HCM with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Proficient in Python, SQL, and Power BI. Seeking an internship to apply data-driven thinking to real business problems and contribute to a collaborative, impact-focused team.",
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
