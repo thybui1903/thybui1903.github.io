@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yashrajnayak.dev/sitemap.xml
+Sitemap: https://thybui1903.github.io/sitemap.xml
