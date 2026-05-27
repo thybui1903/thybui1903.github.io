@@ -148,8 +148,11 @@
     "title": "Projects on GitHub",
     "mode": "featured",
     "topic": "featured",
-    "max_repos": 6,
-    "excluded_repos": []
+    "max_repos": 4,
+    "excluded_repos": [
+      "thybui1903",
+      "portfolio-website"
+    ]
   },
   "footer": {
     "show_social_links": true,
