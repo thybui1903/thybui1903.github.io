@@ -11,18 +11,11 @@
     min-width: 0;
 }
 
-/* Tablet: 2 cột */
 @media (max-width: 1024px) {
-    .skills-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
+    .skills-grid { grid-template-columns: repeat(2, 1fr); }
 }
-
-/* Mobile: 1 cột */
 @media (max-width: 600px) {
-    .skills-grid {
-        grid-template-columns: 1fr;
-    }
+    .skills-grid { grid-template-columns: 1fr; }
 }
 
 .skill-category {
