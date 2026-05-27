@@ -68,14 +68,15 @@
     "title": "Education",
     "jobs": [
       {
-        "company": "University of Information Technology (UIT) - VNU-HCM",
-        "role": "B.Sc. in Data Science",
-        "date": "2023 - Present",
-        "responbility": ["gpa:", "8.69/10"],
+        "company": "University of Information Technology, VNU-HCM",
+        "role": "Bachelor of Science in Data Science",
+        "date": "2023 – 2027 (expected)",
+        "responsibilities": [
+          "GPA: 8.69 / 10"
+        ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
-      }
-    ]
+      }]
   },
   "skills": {
     "title": "Skills & Technologies",
