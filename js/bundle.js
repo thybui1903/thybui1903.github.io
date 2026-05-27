@@ -478,7 +478,7 @@ class SectionManager {
             <details class="experience-details">
                 <summary class="experience-header">
                     <div class="experience-header-content">
-                        ${company} 
+                        <h3>${company}</h3> 
                         ${role}
                         ${date}
                     </div>
