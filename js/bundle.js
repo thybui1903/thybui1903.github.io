@@ -489,7 +489,6 @@ class SectionManager {
                     </div>
                 </summary>
                 <div class="experience-content">
-                    ${gpa}
                     <ul>
                         ${responsibilitiesHtml}
                     </ul>
