@@ -460,8 +460,8 @@ class SectionManager {
         const experienceItem = document.createElement('div');
         experienceItem.className = 'experience-item';
 
-        const company = this.escapeHtml(job.school || job.company || 'Company');
-        const role = this.escapeHtml(job.degree || job.role || 'Role');
+        const school = this.escapeHtml(job.school || 'School');
+        const degree = this.escapeHtml(job.degree || 'Degree');
         const date = job.date ? `<p class="date">${this.escapeHtml(job.date)}</p>` : '';
         const gpa = job.gpa || job.GPA ? `<p class="gpa">GPA: ${this.escapeHtml(job.gpa || job.GPA)}</p>` : '';
         const responsibilitiesHtml = this.listItems(job.responsibilities || 'Add responsibilities to config.json.');
