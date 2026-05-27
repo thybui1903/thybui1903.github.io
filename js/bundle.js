@@ -460,8 +460,8 @@ class SectionManager {
         const experienceItem = document.createElement('div');
         experienceItem.className = 'experience-item';
 
-        const school = this.escapeHtml(job.school || job.company || 'School');
-        const degree = this.escapeHtml(job.degree || job.role || 'Degree');
+        const company = this.escapeHtml(job.company || 'Company');
+        const role = this.escapeHtml(job.role || 'Role');
         const date = job.date ? `<p class="date">${this.escapeHtml(job.date)}</p>` : '';
         const gpa = job.gpa || job.GPA ? `<p class="gpa">GPA: ${this.escapeHtml(job.gpa || job.GPA)}</p>` : '';
         const responsibilitiesHtml = this.listItems(job.responsibilities || 'Add responsibilities to config.json.');
@@ -470,8 +470,8 @@ class SectionManager {
         const darkLogo = this.safeUrl(job.logo_dark);
         const logoHtml = logo || darkLogo ? `
             <div class="company-logo">
-                ${logo ? `<img src="${logo}" alt="${school} logo" class="light-mode-logo" loading="lazy">` : ''}
-                ${darkLogo ? `<img src="${darkLogo}" alt="${school} logo" class="dark-mode-logo" loading="lazy">` : ''}
+                ${logo ? `<img src="${logo}" alt="${company} logo" class="light-mode-logo" loading="lazy">` : ''}
+                ${darkLogo ? `<img src="${darkLogo}" alt="${company} logo" class="dark-mode-logo" loading="lazy">` : ''}
             </div>
         ` : '';
 
@@ -479,7 +479,7 @@ class SectionManager {
             <details class="experience-details">
                 <summary class="experience-header">
                     <div class="experience-header-content">
-                        <h3>${school} | ${degree}</h3>
+                        <h3>${company} | ${role}</h3>
                         ${date}
                     </div>
                     ${logoHtml}

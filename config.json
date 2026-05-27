@@ -22,7 +22,7 @@
   },
   "header": {
     "greeting": "thybui1903",
-    "tagline": "Data Analyst | Data Scientist"
+    "tagline": "Data Analyst | Data Scientist",
   },
   "social_links": [
     {
@@ -36,19 +36,12 @@
       "url": "https://www.linkedin.com/in/thybui1903/",
       "icon": "linkedin",
       "required": true
-    },
-    {
-      "name": "Gmail",
-      "url": "mailto:thybui1903@gmail.com",
-      "icon": "envelope",
-      "required": true
     }
-
   ],
   "github_username": "thybui1903",
   "about": {
     "paragraphs": [
-      "Welcome to my portfolio! I'm currently a Data Science student at UIT VNU-HCM with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Proficient in Python, SQL, and Power BI. Seeking an internship to apply data-driven thinking to real business problems and contribute to a collaborative, impact-focused team.",
+      "Welcome to my portfolio! I'm passionate about creating amazing digital experiences and solving complex problems through code.",
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
@@ -75,10 +68,11 @@
     "title": "Education",
     "jobs": [
       {
-        "school": "University of Information Technology (UIT) - VNU-HCM",
-        "degree": "B.Sc. in Data Science",
+        "company": "University of Information Technology (UIT) - VNU-HCM",
+        "role": "B.Sc. in Data Science",
         "date": "2023 - Present",
-        "GPA": "8.69/10",
+        "gpa": "8.69/10",
+        "responsibilities": [""],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
       }
