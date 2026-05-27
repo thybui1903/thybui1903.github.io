@@ -79,15 +79,40 @@
       }]
   },
   "skills": {
-    "title": "Skills & Technologies",
+    "title": "Technical Skills",
     "categories": [
       {
-        "name": "Programming Languages & Technologies",
+        "name": "Programming & Data Processing",
         "items": [
-          "JavaScript",
           "Python",
+          "SQL",
           "Java",
-          "TypeScript"
+          "C++",
+          "Pandas",
+          "NumPy",
+          "PySpark"
+        ]
+      },
+      {
+        "name": "Machine Learning & Analytics",
+        "items": [
+          "Scikit-learn",
+          "PyTorch",
+          "Classification",
+          "Regression",
+          "Clustering",
+          "Feature Engineering",
+          "CRISP-DM"
+        ]
+      },
+      {
+        "name": "Data Visualization & BI",
+        "items": [
+          "Power BI",
+          "DAX",
+          "Matplotlib",
+          "Seaborn",
+          "Excel"
         ]
       },
       {
@@ -95,18 +120,10 @@
         "items": [
           "Git",
           "GitHub",
-          "VS Code",
-          "Docker"
-        ]
-      },
-      {
-        "name": "Certifications",
-        "items": [
-          {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
-          },
-          "You can also add certifications without links"
+          "Docker",
+          "Linux (Ubuntu)",
+          "Jupyter Notebook",
+          "VS Code"
         ]
       }
     ]
